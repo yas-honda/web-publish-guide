@@ -33,7 +33,7 @@ export default function App() {
             onClick={() => setShowTroubleshooting(!showTroubleshooting)}
             className="text-slate-500 hover:text-blue-600 underline text-sm transition-colors"
           >
-            {showTroubleshooting ? 'トラブルシューティングを隠す' : 'うまくいかないときは？（トラブルシューティング）'}
+            {showTroubleshooting ? 'トラブルシューティングを隠す' : 'うまくいかないときは？'}
           </button>
         </div>
 
