@@ -19,7 +19,7 @@ export default function App() {
               Web公開ガイド
             </h1>
             <p className="text-sm text-slate-500 hidden md:block">
-              ダウンロード不要！AI Studioから直接GitHubへPushして公開する手順
+              すべてブラウザ上の操作だけで完結する一番簡単な方法
             </p>
           </div>
         </div>
